@@ -1,0 +1,31 @@
+*{margin: 0; padding: 0;}
+.cabecalho {
+    background-color: rgb(228, 169, 255);
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}                                                                                                                                                         
+
+.logo {
+    width: 50%;
+}
+
+.coluna1 { display: flex;
+    width: 50px; 
+    height: 250px;} 
+
+.coluna2 {
+     display: flex; width: 50px; height: 250px;}
+
+
+.rodape {
+    text-align: end;
+}
+.rodape2 {
+    text-align: end;
+    height: 250px;
+}
+.rodape3 {
+    background-color: rgb(205, 174, 235);
+}
+
